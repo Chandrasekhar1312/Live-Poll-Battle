@@ -1,4 +1,5 @@
 
+
 # 🗳️ Live Poll Battle
 
 **Live Poll Battle** is a real-time web app where users can create or join a poll room and vote on one of two options. The vote results update instantly for all users in the room using WebSockets.
@@ -71,3 +72,4 @@ Rooms are completely separate, so multiple rooms can run at the same time withou
 ---
 
 ✅ Built with simplicity, speed, and real-time interaction in mind.
+# live-poll-battle
